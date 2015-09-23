@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><wasInstall timestamp="1441918166463">
+<wasInstalls id="was.base.v8" location="D:\IBM\WebSphere80\AppServer">
+<profile active="true" location="D:\IBM\WebSphere80\AppServer\profiles\AppSrv01" name="AppSrv01" timestamp="1441918166463"/>
+</wasInstalls>
+<wasInstalls id="was.base.v85" location="D:\IBM\WebSphere85\AppServer">
+<profile active="true" location="D:\IBM\WebSphere85\AppServer\profiles\AppSrv01" name="AppSrv01" timestamp="1441918166463"/>
+</wasInstalls>
+</wasInstall>

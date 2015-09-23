@@ -1,0 +1,9 @@
+File-WriteTime=1443017425682
+kernel.def=websphere-kernel_1.0.1
+framework.def=websphere-equinox_3.7.2
+bootstrap.path=D:\IBM\SDP\configuration\org.eclipse.osgi\bundles\617\1\.cp\resources\server_runtime\lib\
+kernel.path=D:\IBM\SDP\configuration\org.eclipse.osgi\bundles\617\1\.cp\resources\server_runtime\lib\platform\websphere-kernel_1.0.1.blst
+framework.jars=org.eclipse.osgi_3.7.2.v20120110-1415.jar,com.ibm.cds_2.2.0.201203051532.jar
+framework.jar.paths=D:\IBM\SDP\configuration\org.eclipse.osgi\bundles\617\1\.cp\resources\server_runtime\lib\org.eclipse.osgi_3.7.2.v20120110-1415.jar,D:\IBM\SDP\configuration\org.eclipse.osgi\bundles\617\1\.cp\resources\server_runtime\lib\com.ibm.cds_2.2.0.201203051532.jar
+framework.def.path=D:\IBM\SDP\configuration\org.eclipse.osgi\bundles\617\1\.cp\resources\server_runtime\lib\platform\websphere-equinox_3.7.2.blst
+configurator.class=com.ibm.ws.kernel.launch.internal.EquinoxFrameworkConfigurator

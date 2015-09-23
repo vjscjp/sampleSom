@@ -1,0 +1,14 @@
+Cache-WriteTime=1443017430347
+jsp-2.2=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/jsp-2.2.mf;1435171523477;2598
+appmanager-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/appmanager-1.0.mf;1435171523477;847
+anno-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/anno-1.0.mf;1435171523477;240
+httptransport-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/httptransport-1.0.mf;1435171523477;284
+localConnector-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/localConnector-1.0.mf;1435171523477;258
+javaeedd-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/javaeedd-1.0.mf;1435171523461;386
+jaxrs-1.1=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/jaxrs-1.1.mf;1435171523461;4930
+channelfw-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/channelfw-1.0.mf;1435171523492;268
+injection-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/injection-1.0.mf;1435171523492;647
+servlet-3.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/servlet-3.0.mf;1435171523477;1923
+json-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/json-1.0.mf;1435171523492;343
+artifactapi-1.0=file:/D:/IBM/SDP/configuration/org.eclipse.osgi/bundles/617/1/.cp/resources/server_runtime/lib/features/artifactapi-1.0.mf;1435171523492;620
+installed.features=jsp-2.2,appmanager-1.0,anno-1.0,httptransport-1.0,localConnector-1.0,javaeedd-1.0,jaxrs-1.1,channelfw-1.0,servlet-3.0,injection-1.0,json-1.0,artifactapi-1.0
